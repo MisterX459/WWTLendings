@@ -1,0 +1,783 @@
+id,parent,url,title,schemaorg,language,meta,search block,search params,breadcrumbs,content,content,content,content,content,content,content,content,content
+1,0,/landings/travel-with-big-dog/city-travel/netherlands/utrecht/en,Pet-Friendly Hotels in Utrecht for City Travelers with Big Dogs,,en,"[{""name"": ""description"", ""content"": ""Discover the best dog-friendly hotels in Utrecht for big dogs. Enjoy verified accommodations with no weight limits, fenced gardens, and pet-friendly amenities. Book your stay in Utrecht stress-free with WinWin.travel!""}, {""name"": ""keywords"", ""content"": ""Dog-friendly hotels Utrecht, Big dog accommodation Netherlands, Pet-friendly stays Utrecht, Hotels with fenced yard Utrecht, Travel with big dog Netherlands, Pet-friendly vacation Utrecht, Utrecht hotels for big dogs, No weight limit dog hotels Netherlands, Holiday with dog Utrecht""}, {""property"": ""og:title"", ""content"": ""Pet-friendly Hotels in Utrecht for Big Dogs – WinWin.travel""}]","{ ""title"": ""Best Dog-Friendly Hotels in Utrecht for You and Your Big Dog"", ""subtitle"": ""Discover the Best Stays for You and Your Small Dog in Utrecht"", ""bgImage"": ""/images/landings/balloons-2.jpg""}","{""stay"":{""defaultStayPeriod"":{""checkIn"":""2025-08-26"",""checkOut"":""2025-08-29""}},""guestQuantity"":{""adultsQuantity"":1,""ageOfChildren"":[5,3],""pets"":[{""type"":""DOG"",""weight"":""10-15kg""}]},""geolocation"":{""radius"":20,""centerPoint"":{""latitude"":52.0907,""longitude"":5.1214}}}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/en""},
+        {""name"": ""For big dog"", ""url"": ""/pet-friendly/for-big-dog/en""},
+        {""name"": ""Netherlands"", ""url"": ""/pet-friendly/for-2-dogs/netherlands/en""},
+        {""name"": ""Utrecht""}
+]","{
+  ""type"": ""text with image"",
+  ""data"": {
+    ""title"": ""Visiting Utrecht with a big dog?"",
+    ""subtitle"": ""Dog-friendly hotels in Utrecht for large breeds"",
+    ""description"": [
+      ""Whether you're planning a relaxing weekend or a longer stay, Utrecht welcomes you and your large furry friend."",
+      ""Browse handpicked hotels in Utrecht that accept large dogs without strict weight limits or unnecessary restrictions."",
+      ""Enjoy access to open spaces, nearby parks, and quiet neighborhoods ideal for walks with your big companion."",
+      ""All listings feature clear pet policies and extras like spacious rooms, fenced areas, and no muzzle requirements."",
+      ""Booking with WinWin.travel means no hidden pet fees, instant confirmation, and stress-free travel for both you and your dog.""
+    ],
+    ""image"": ""https://i.imgur.com/kIhzq9y.jpeg""
+  }
+}
+"," {
+    ""type"": ""button"",
+    ""data"": {
+      ""url"": ""/"",
+      ""text"": ""Browse Dog-Friendly Hotels""
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Finding a hotel in Utrecht for your big dog?"",
+    ""subtitle"": ""Larger breeds deserve comfort too — without extra fees or leash rules."",
+    ""text"": ""Explore dog-friendly stays in Utrecht where big dogs are truly welcome. Spacious rooms, fenced yards, and central locations await."",
+    ""items"": [
+      {
+        ""label"": ""Spacious suite near Utrecht canals"",
+        ""image"": ""https://a0.muscache.com/im/pictures/miso/Hosting-647527796896712384/original/da3b2120-14b2-4c4f-a4cb-e917300b5260.jpeg"",
+        ""url"": ""/offers/utrecht-suite-large-dog""
+      },
+      {
+        ""label"": ""Pet-friendly loft with backyard access"",
+        ""image"": ""https://a0.muscache.com/im/pictures/35fdc1b7-0313-414e-afb4-d0f1b190a87d.jpg"",
+        ""url"": ""/offers/utrecht-loft-dog""
+      },
+      {
+        ""label"": ""Modern hotel close to Wilhelminapark"",
+        ""image"": ""https://media-cdn.tripadvisor.com/media/photo-s/08/d5/55/84/hotel-mitland.jpg"",
+        ""url"": ""/offers/utrecht-wilhelmina""
+      },
+      {
+        ""label"": ""Charming townhouse with fenced yard"",
+        ""image"": ""https://a0.muscache.com/im/pictures/6e554754-36c2-403c-a019-fa5d0ca3f7bc.jpg"",
+        ""url"": ""/offers/utrecht-townhouse-dog""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Our Advantages"",
+    ""subtitle"": ""Why Book With WinWin.travel?"",
+    ""text"": ""Discover why dog owners rely on WinWin.travel to find the perfect pet-friendly stays in Utrecht for large breeds."",
+    ""items"": [
+      {
+        ""title"": ""Quickly compare pet-friendly hotels and choose the best for you and your large dog in Utrecht."",
+        ""label"": ""Easy comparison""
+      },
+      {
+        ""title"": ""Find cost-effective booking dates for pet-friendly stays with the price calendar in Utrecht."",
+        ""label"": ""Price calendar""
+      },
+      {
+        ""title"": ""Explore heatmaps highlighting dog-walking zones and pet-friendly parks for large dog outings in Utrecht."",
+        ""label"": ""Location heatmaps""
+      },
+      {
+        ""title"": ""Book verified deals without guesswork about leash policies and pet fees in Netherlands."",
+        ""label"": ""Verified fees""
+      },
+      {
+        ""title"": ""Receive price drop alerts and automatic rebooking for pet-friendly rooms in Utrecht."",
+        ""label"": ""Price alerts""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""reviews"",
+  ""data"": {
+    ""title"": ""Reviews"",
+    ""subtitle"": ""What do large dog owners say about booking stays through WinWin.travel?"",
+    ""items"": [
+      {
+        ""title"": ""Thomas Vermeer"",
+        ""subtitle"": ""Owner of a big dog"",
+        ""description"": ""Finally found a site that gets the needs of big dogs! Clear policies, enough space, and no surprises at check-in. Booking for Utrecht was smooth and reliable."",
+        ""image"": ""https://i.imgur.com/SveCnIK.jpeg""
+      },
+      {
+        ""title"": ""Ana Kruger"",
+        ""subtitle"": ""Owner of a  big dog"",
+        ""description"": ""Most sites only focus on small dogs. WinWin.travel let me filter by dog size, weight limits, and even find a fenced yard. Huge win for big dog owners!"",
+        ""image"": ""https://i.imgur.com/J3SfzBP.jpeg""
+      },
+      {
+        ""title"": ""Jens Hofman"",
+        ""subtitle"": ""Owner of  big dog"",
+        ""description"": ""I booked a stay in Utrecht that allowed big dog, no extra deposit, and even had dog parks nearby. Couldn't believe how easy it was."",
+        ""image"": ""https://i.imgur.com/6vNSihx.jpeg""
+      }
+    ]
+  }
+}
+","{
+    ""type"": ""partners"",
+    ""data"": {
+      ""title"": ""Our Partners"",
+      ""subtitle"": ""These hotels trust WinWin"",
+      ""description"": ""We collaborate with globally recognized brands to enhance your experience."",
+      ""config"": { ""columns"": 4 },
+      ""items"": [
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/8/8a/Hilton_Worldwide_logo.svg"",
+          ""url"": ""https://www.hilton.com/"",
+          ""name"": ""Hilton Worldwide""
+        },
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/b/b3/Marriott_hotels_logo14.svg"",
+          ""url"": ""https://marriott-hotels.marriott.com/"",
+          ""name"": ""Marriott Hotels and Resorts""
+        },
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/9/93/IHG_Hotels_%26_Resorts_logo.svg"",
+          ""url"": ""https://www.ihg.com/"",
+          ""name"": ""IHG Hotels & Resorts""
+        },
+        {
+            ""image"": ""https://upload.wikimedia.org/wikipedia/commons/2/24/Radisson_Hotel_Group_logo.svg"",
+            ""url"": ""https://www.radissonhotels.com/"",
+            ""name"": ""Radisson Hotel Group""
+          }
+      ]
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""You May Also Like"",
+    ""subtitle"": ""Discover More Pet-Friendly Destinations Across the Netherlands"",
+    ""items"": [
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/haarlem/nl"",
+        ""label"": ""Big Dog-Friendly Hotels in Haarlem"",
+        ""image"": ""https://static.independent.co.uk/2023/05/12/14/newFile-6.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-small-dog/city-travel/netherlands/amsterdam/en"",
+        ""label"": ""Stays in Amsterdam for Small Dogs"",
+        ""image"": ""https://www.agoda.com/wp-content/uploads/2024/01/Featured-image-Amsterdam-1244x700.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/maastricht/en"",
+        ""label"": ""Pet-Friendly Accommodation in Maastricht"",
+        ""image"": ""https://travelingseason.com/wp-content/uploads/2024/11/MaastrichtNetherlands.jpg""
+      }
+    ]
+  }
+}
+","{
+    ""type"": ""faq"",
+    ""data"": {
+            ""title"": ""FAQ"",
+            ""subtitle"": ""Travelers Ask"",
+            ""items"": [{
+                    ""question"": ""Are all these hotels in the Netherlands (Utrecht) suitable for big dogs?"",
+                    ""answer"": ""Not necessarily  but finding the right one is easy. Just use the “Pets” filter on our website and select “From 10-15kg pet allowed”. We’ll show you only the hotels that clearly allow big dogs, so you can book with confidence.""
+            }, {
+                    ""question"": ""Do I need to pay extra for my small dog more than 10 kg to stay in the Netherlands (Utrecht)?"",
+                    ""answer"": ""Some hotels may charge a pet fee, but many don’t. By using our “Pet Fee” filter, you can easily find hotels that either don’t charge a fee or have a pet fee less than €20 per night. This way, you avoid surprises and book the best stay for you and your dog.""
+            }, {
+                    ""question"": ""Are there nearby parks or walking areas for small dogs more than 10 kg in Utrecht?"",
+                    ""answer"": ""Yes, and to make it even easier, you can use the “Pet walking area nearby” filter in the “Pets” section on our website. It helps you find hotels located close to dog-friendly parks and green zones, perfect for short walks with your small dog.""
+            }, {
+                    ""question"": ""Do I need to show my dog's vaccination records?"",
+                    ""answer"": ""Some hotels may require vaccination records, but many don’t. You can use our “No pet vaccination required” filter in the “Pets” section to find hotels that don’t ask for this. However, we still recommend bringing your dog’s vaccination documents when traveling just in case.""
+            }, {
+                    ""question"": ""Is there a weight limit for my big dog more than 10kg?"",
+                    ""answer"": ""Some hotels do set weight limits, but you can easily find the right options using our filters. Just select “No pet weight limit” in the “Pets” section on our website to see hotels that welcome big dogs without strict restrictions.""
+            }, {
+                    ""question"": ""What should I bring for my big dog more than 10kg?"",
+                    ""answer"": ""Each hotel card on our website shows what's included in the room. To find the most pet-ready stays faster, use our filters like “Towels for pets”, “Additional pet services”, or “Toys for pets” in the “Pets” section during your search.""
+            }]
+    }
+}",
+2,1,/landings/travel-with-small-dog/city-travel/netherlands/amsterdam/en,Pet-Friendly Hotels in Amsterdam for City Travelers with Small Dogs,,en,"[{""name"": ""description"", ""content"": ""Find the best pet-friendly hotels in Amsterdam for small dogs under 8 kg. Verified stays in central locations, flexible booking, and dog-friendly amenities. Travel with ease and book now!""}, {""name"": ""keywords"", ""content"": ""Dog-friendly hotel Netherlands, Holiday with dog by the sea, Holiday home with fenced yard for dog, Vacation with 2 dogs, Dog-friendly accommodation Veluwe, Weekend getaway with dog, Last-minute dog-friendly hotel, Luxury holiday home with dog, Pet-friendly holiday home Netherlands, Hotels that allow dogs, Stay by the beach with dog, Fenced garden vacation rentals, Dog-friendly hotels with no leash rules, Accommodation for multiple dogs, Cheap weekend with dog, Dog travel Netherlands.""}, {""property"": ""og:title"", ""content"": ""Pet-Friendly Hotels in Amsterdam for Small Dogs Best Locations & Verified Reviews – WinWin.travel""}]","{
+    ""title"": ""Best Dog-Friendly Hotels in Amsterdam for You and Your Small Dog"",
+   ""subtitle"": ""Discover the Best Stays for You and Your Small Dog in Amsterdam"",
+    ""bgImage"": ""/images/landings/balloons-2.jpg""
+}","{""stay"":{""defaultStayPeriod"":{""checkIn"":""2025-08-26"",""checkOut"":""2025-08-29""}},""guestQuantity"":{""adultsQuantity"":2,""pets"":[{""type"":""DOG"",""weight"":""1-5kg""}]},""filters"":[{""id"":""4"",""type"":""AND"",""optionIDs"":[""1""]},{""id"":""5"",""type"":""AND"",""optionIDs"":[""2""]},{""id"":""10"",""type"":""AND"",""optionIDs"":[""36"",""38""]}]}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/en""},
+        {""name"": ""For small dog"", ""url"": ""/pet-friendly/for-small-dogs/en""},
+        {""name"": ""Netherlands"", ""url"": ""/pet-friendly/for-small-dogs/netherlands/en""},
+        {""name"": ""Amsterdam""}
+]","{
+  ""type"": ""text with image"",
+  ""data"": {
+    ""title"": ""Traveling with a small dog?"",
+    ""subtitle"": ""Pet-friendly hotels in Amsterdam"",
+    ""description"": [
+      ""Whether you're here for a city break or a relaxing weekend getaway, we've curated the best pet-friendly hotels in Amsterdam that welcome dogs under 8 kg."",
+      ""Enjoy central locations close to dog-friendly parks, public transport, and cozy cafes."",
+      ""All properties offer clear pet policies and thoughtful features for small dogs, such as bowls, welcome treats, or soft flooring for comfort."",
+      ""You'll find spaces where your pup is truly welcome."",
+      ""Booking through WinWin.travel is fast and reliable. Plan once — travel stress-free.""
+    ],
+    ""image"": ""https://i.imgur.com/kIhzq9y.jpeg""
+  }
+}
+"," {
+    ""type"": ""button"",
+    ""data"": {
+      ""url"": ""/"",
+      ""text"": ""Browse Dog-Friendly Hotels""
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Have you ever tried to find a hotel in Netherlands that allows small dogs?"",
+    ""subtitle"": ""Dog owners know the struggle – multiple pets, hotel rules, hidden fees."",
+    ""text"": ""Explore handpicked listings where small dogs are not just accepted – they’re welcomed."",
+    ""items"": [  
+      {
+        ""label"": ""Try old-stylish apartments with amazing view"",
+""image"": ""https://www.thenordroom.com/wp-content/uploads/2021/04/AMoodyandLuxuriousAtticApartmentinAmsterdam-TheNordroom.jpg"",
+        ""url"": ""/room-offer?hotelId=87269&roomId=SUI.KG&integrationName=HOTELBEDS_INTEGRATION&tab=Room&ids.room=SUI.KG&ids.hotel=87269&ids.integration=HOTELBEDS_INTEGRATION&search.pagination.limit=12&search.pagination.offset=0&search.stay.defaultStayPeriod.checkIn=2025-08-18&search.stay.defaultStayPeriod.checkOut=2025-08-21&search.geolocation.radius=10&search.geolocation.centerPoint.latitude=52.377956&search.geolocation.centerPoint.longitude=4.89707&search.guestQuantity.adultsQuantity=2&search.guestQuantity.pets%5B0%5D.weight=1-5kg&search.guestQuantity.pets%5B0%5D.type=DOG&search.flagSearch.isSearchWithDynamicAndStaticData=true&search.integrationsSearch%5B0%5D.integrationName=HOTELBEDS_INTEGRATION""
+      },
+      {
+        ""label"": ""Modern apartments in dog-friendly neighborhoods"",""image"":""https://www.pufikhomes.com/wp-content/uploads/2023/07/chorno-belaya-kvartira-v-amsterdame-pufikhomes-1.jpg"",
+        ""url"": ""/offers/offer-02""
+      },
+      {
+        ""label"": ""Room with charm and backyard access"",""image"":""https://media.vrbo.com/lodging/96000000/95700000/95690600/95690533/c9807a73.jpg"",
+        ""url"": ""/offers/offer-03""
+      },
+  {
+      ""label"": ""Stylish Loft Near Central Park"",""image"":""https://a0.muscache.com/im/pictures/miso/Hosting-975176761558967760/original/0f021f73-6eb0-4f02-8a78-ebed7e903b72.jpeg"",
+        ""url"": ""/offers/offer-04""
+      }
+    ]
+  }
+}","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Our Advantages"",
+    ""subtitle"": ""Why Book With WinWin.travel?"",
+    ""text"": ""Discover why smart dog owners choose WinWin.travel to find the perfect pet-friendly stays in Amsterdam."",
+    ""items"": [
+     {
+        ""title"": ""Instantly find hotel deals in Amsterdam that welcome small dogs under 8 kg, with verified nearby pet-walking areas."",
+        ""label"": ""Verified stays""
+      },{
+        ""title"": ""Filter pet-friendly accommodations in the Netherlands with no hidden fees or unclear terms."",
+        ""label"": ""Transparent policies""
+      },
+      {
+        ""title"": ""Access detailed information about pet stations, water bowls, and designated areas for dogs in Amsterdam hotels."",
+        ""label"": ""Clear pet policies""
+      },
+      {
+        ""title"": ""Search results show only offers that match your small dog’s needs, eliminating irrelevant listings."",
+        ""label"": ""Accurate filtering""
+      },{ ""title"": ""Use AI chat to specify complex requests like multiple pets, sizes, and pet parks for trips to Netherlands. "", ""label"": ""AI assistance""}
+    ]
+  }
+}
+","{
+    ""type"": ""reviews"",
+    ""data"": {
+        ""title"": ""Reviews"",
+        ""subtitle"": ""What do dog owners say about reserving pet-friendly stays with WinWin.travel?"",
+        ""items"": [
+            {
+                ""title"": ""Roxy Delgado"",
+                ""subtitle"": ""Owner of small dog"",
+                ""description"": ""I’m done with those basic-a*s booking sites. This one gets me. Gets my dog. Gets that I don’t wanna read 500 rules in size 6 font. Just give me the good stuff and it did."",""image"":""https://i.imgur.com/pRJMS6Q.jpeg""
+            },
+            {
+                ""title"": ""Isla Renaud"",
+                ""subtitle"": ""Owner of small dog"",
+                ""description"": ""Wait, what?! I could literally filter for hotels that let dogs into the restaurant. Like, finally someone gets it!"",""image"":""https://i.imgur.com/r5OTYlX.jpeg""
+            },
+            {
+                ""title"": ""Luca Marino"",
+                ""subtitle"": ""Owner of small dog"",
+                ""description"": ""I didn’t expect the filters to be this detailed. I could even choose a hotel where dogs are allowed in the restaurant. Finally!"",""image"":""https://i.imgur.com/LRBZVHI.jpeg""
+            }
+        ]
+    }
+}","{
+    ""type"": ""partners"",
+    ""data"": {
+      ""title"": ""Our Partners"",
+      ""subtitle"": ""These hotels trust WinWin"",
+      ""description"": ""We collaborate with globally recognized brands to enhance your experience."",
+      ""config"": { ""columns"": 4 },
+      ""items"": [
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/8/8a/Hilton_Worldwide_logo.svg"",
+          ""url"": ""https://www.hilton.com/"",
+          ""name"": ""Hilton Worldwide""
+        },
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/b/b3/Marriott_hotels_logo14.svg"",
+          ""url"": ""https://marriott-hotels.marriott.com/"",
+          ""name"": ""Marriott Hotels and Resorts""
+        },
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/9/93/IHG_Hotels_%26_Resorts_logo.svg"",
+          ""url"": ""https://www.ihg.com/"",
+          ""name"": ""IHG Hotels & Resorts""
+        },
+        {
+            ""image"": ""https://upload.wikimedia.org/wikipedia/commons/2/24/Radisson_Hotel_Group_logo.svg"",
+            ""url"": ""https://www.radissonhotels.com/"",
+            ""name"": ""Radisson Hotel Group""
+          }
+      ]
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""You May Also Like"",
+    ""subtitle"": ""Explore More Pet-Friendly Stays in the Netherlands"",
+    ""items"": [
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/utrecht/en"",
+        ""label"": ""Dog-Friendly Hotels in Utrecht for Big Dogs"",""image"": ""https://beneluks.pl/wp-content/uploads/2023/07/aerial-of-utrecht-centrum_shutterstock_1305524767.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-small-dog/city-travel/netherlands/amsterdam/en"",
+        ""label"": ""Dog-Friendly Hotels in Amsterdam for Small dogs"",""image"": ""https://www.holland.com/upload_mm/2/4/4/80160_fullimage_rondvaartboot%20vaart%20onder%20brug%20door%20met%20mooie%20wolkenlucht%20%C2%A9%20illusion-x%20via%20pixabay_1150x663_438x353.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/maastricht/nl"",
+        ""label"": ""Dog-Friendly Accommodation in Maastricht with Big dogs"",""image"": ""https://www.holland.com/upload_mm/f/6/0/82645_fullimage_scheveningen%20en%20den%20haag%20gezien%20vanaf%20de%20zee%20%C2%A9%20the%20hague%20convention%20bureau_1150x663_622x564.jpg""
+      }
+    ]
+  }
+}
+","{
+    ""type"": ""faq"",
+    ""data"": {
+            ""title"": ""FAQ"",
+            ""subtitle"": ""Travelers Ask"",
+            ""items"": [{
+                    ""question"": ""Are all these hotels in the Netherlands (Amsterdam) suitable for small dogs?"",
+                    ""answer"": ""Not necessarily  but finding the right one is easy. Just use the “Pets” filter on our website and select “Up to 15kg pet allowed”. We’ll show you only the hotels that clearly allow small dogs, so you can book with confidence.""
+            }, {
+                    ""question"": ""Do I need to pay extra for my small dog under 8 kg to stay in the Netherlands (Amsterdam)?"",
+                    ""answer"": ""Some hotels may charge a pet fee, but many don’t — especially for small dogs. By using our “Pet Fee” filter, you can easily find hotels that either don’t charge a fee or have a pet fee less than €20 per night. This way, you avoid surprises and book the best stay for you and your dog.""
+            }, {
+                    ""question"": ""Are there nearby parks or walking areas for small dogs under 8 kg in Amsterdam?"",
+                    ""answer"": ""Yes, and to make it even easier, you can use the “Pet walking area nearby” filter in the “Pets” section on our website. It helps you find hotels located close to dog-friendly parks and green zones, perfect for short walks with your small dog.""
+            }, {
+                    ""question"": ""Do I need to show my dog's vaccination records?"",
+                    ""answer"": ""Some hotels may require vaccination records, but many don’t. You can use our “No pet vaccination required” filter in the “Pets” section to find hotels that don’t ask for this. However, we still recommend bringing your dog’s vaccination documents when traveling just in case.""
+            }, {
+                    ""question"": ""Is there a weight limit for my small dog under 8 kg?"",
+                    ""answer"": ""Some hotels do set weight limits, but you can easily find the right options using our filters. Just select “No pet weight limit” or “Up to 15kg pet allowed” in the “Pets” section on our website to see hotels that welcome small dogs without strict restrictions.""
+            }, {
+                    ""question"": ""What should I bring for my small dog under 8 kg?"",
+                    ""answer"": ""Each hotel card on our website shows what's included in the room. To find the most pet-ready stays faster, use our filters like “Towels for pets”, “Additional pet services”, or “Toys for pets” in the “Pets” section during your search.""
+            }]
+    }
+}",
+3,2,/landings/travel-with-big-dog/city-travel/netherlands/haarlem/nl,Huisdiervriendelijke hotels in Haarlem voor stedentrippers met grote honden,,nl,"[
+  {
+    ""name"": ""description"",
+    ""content"": ""Ontdek de best beoordeelde huisdiervriendelijke hotels in Haarlem voor grote honden. Geniet van ruime accommodaties, hondvriendelijke parken in de buurt en flexibele boekingen met WinWin.travel..""
+  },
+  {
+    ""name"": ""keywords"",
+    ""content"": ""Hondvriendelijk hotel Haarlem, Reizen met grote hond Nederland, Huisdiervriendelijke verblijven Haarlem, Hotels die grote honden accepteren, Hondenparken in Haarlem, Vakantie met grote hond Nederland, Ruime hotels voor honden, Hondenreizen Haarlem""
+  },
+  {
+    ""property"": ""og:title"",
+    ""content"": ""Huisdiervriendelijke hotels in Haarlem voor grote honden - WinWin.travel""
+  }
+]
+","{
+    ""title"": ""De beste hondvriendelijke hotels in Haarlem voor u en uw kleine hond"",
+   ""subtitle"": ""Ontdek de beste verblijfplaatsen voor u en uw kleine hond in Haarlem"",
+    ""bgImage"": ""/images/landings/balloons-2.jpg""
+}","{""stay"":{""defaultStayPeriod"":{""checkIn"":""2025-08-26"",""checkOut"":""2025-08-29""}},""guestQuantity"":{""adultsQuantity"":1,""pets"":[{""type"":""DOG"",""weight"":""10-15kg""}]},""filters"":[{""id"":""4"",""type"":""AND"",""optionIDs"":[""1""]},{""id"":""5"",""type"":""AND"",""optionIDs"":[""2""]},{""id"":""10"",""type"":""AND"",""optionIDs"":[""36"",""38""]}],""geolocation"":{""radius"":20,""centerPoint"":{""latitude"":52.3874,""longitude"":4.6462}}}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/nl""},
+        {""name"": ""For big dog"", ""url"": ""/pet-friendly/for-big-dogs/nl""},
+        {""name"": ""Netherlands"", ""url"": ""/pet-friendly/for-big-dogs/netherlands/nl""},
+        {""name"": ""Haarlem""}
+]","{
+  ""type"": ""text with image"",
+  ""data"": {
+    ""title"": ""Reist u met een grote hond??"",
+    ""subtitle"": ""Huisdiervriendelijke hotels in Haarlem"",
+    ""description"": [
+      ""Bent u van plan om met uw grote hond op reis te gaan? Wij hebben de beste huisdiervriendelijke hotels in Haarlem geselecteerd die honden van meer dan 10 kg verwelkomen."",
+      ""Verblijf in ruime accommodaties in de buurt van groene gebieden, wandelpaden en rustige wijken die ideaal zijn voor grote honden."",
+      ""Elke advertentie bevat duidelijke huisdierbeleidsregels, grote entrees en zelfs omheinde terreinen of huisdiervriendelijke balkons."",
+      ""Of u nu hier bent voor een weekendje weg of een langer verblijf, uw hond zal zich hier helemaal thuis voelen."",
+      ""Met WinWin.travel is boeken eenvoudig en stressvrij – zowel voor u als voor uw trouwe viervoeter.""
+    ],
+    ""image"": ""https://i.imgur.com/kIhzq9y.jpeg""
+  }
+}
+"," {
+    ""type"": ""button"",
+    ""data"": {
+      ""url"": ""/"",
+      ""text"": ""Bekijk hondvriendelijke hotels""
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Ooit geprobeerd een hotel te vinden in Nederland dat grote honden toestaat?"",
+    ""subtitle"": ""Hondenbezitters kennen de uitdaging – meerdere huisdieren, hotelregels, verborgen kosten."",
+    ""text"": ""Ontdek zorgvuldig geselecteerde accommodaties waar grote honden niet alleen worden geaccepteerd – maar echt welkom zijn."",
+    ""items"": [  
+      {
+        ""label"": ""Probeer ouderwetse appartementen met een prachtig uitzicht"",
+        ""image"": ""https://www.thenordroom.com/wp-content/uploads/2021/04/AMoodyandLuxuriousAtticApartmentinAmsterdam-TheNordroom.jpg"",
+        ""url"": ""/offers/offer-02""
+      },
+      {
+        ""label"": ""Moderne appartementen in hondvriendelijke wijken"",
+        ""image"": ""https://www.pufikhomes.com/wp-content/uploads/2023/07/chorno-belaya-kvartira-v-amsterdame-pufikhomes-1.jpg"",
+        ""url"": ""/offers/offer-02""
+      },
+      {
+        ""label"": ""Kamer met charme en toegang tot de achtertuin"",
+        ""image"": ""https://media.vrbo.com/lodging/96000000/95700000/95690600/95690533/c9807a73.jpg"",
+        ""url"": ""/offers/offer-03""
+      },
+      {
+        ""label"": ""Stijlvolle loft bij het stadspark"",
+        ""image"": ""https://a0.muscache.com/im/pictures/miso/Hosting-975176761558967760/original/0f021f73-6eb0-4f02-8a78-ebed7e903b72.jpeg"",
+        ""url"": ""/offers/offer-04""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Onze Voordelen"",
+    ""subtitle"": ""Waarom boeken bij WinWin.travel?"",
+    ""text"": ""Ontdek waarom slimme hondenbezitters kiezen voor WinWin.travel om het perfecte hondvriendelijke verblijf in Haarlem te vinden."",
+    ""items"": [
+      {
+        ""title"": ""Toegang tot alleen hotels die zijn geverifieerd op echte hondvriendelijkheid om misleidende vermeldingen in Haarlem te vermijden."",
+        ""label"": ""Vertrouwde vermeldingen""
+      },
+      {
+        ""title"": ""Profiteer van op deals gerichte zoekopdrachten die garanderen dat elke vermelde hotelkamer in Haarlem volledig voldoet aan de reisbehoeften van je grote hond."",
+        ""label"": ""Nauwkeurige dealmatching""
+      },
+      {
+        ""title"": ""Vergelijk en sla eenvoudig meerdere hondvriendelijke hoteldeals op in Haarlem om eenvoudig het beste verblijf voor jou en je hond te kiezen."",
+        ""label"": ""Meerdere deals opslaan""
+      },
+      {
+        ""title"": ""Ontdek flexibele dealopties met gedetailleerde hondvriendelijke voorzieningen zoals uitlaatgebieden en hondvriendelijke restaurants in Haarlem."",
+        ""label"": ""Flexibele deals""
+      },
+      {
+        ""title"": ""Filter hotelkamers in Haarlem op exacte huisdierenbeleid, inclusief groottebeperkingen en toegestane huisdiertypes – voor een perfecte match met je grote hond."",
+        ""label"": ""Nauwkeurige filtering""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""reviews"",
+  ""data"": {
+    ""title"": ""Beoordelingen"",
+    ""subtitle"": ""Wat zeggen eigenaren van grote honden over het boeken via WinWin.travel?"",
+    ""items"": [
+      {
+        ""title"": ""Thomas Vermeer"",
+        ""subtitle"": ""Eigenaar van een grote hond"",
+        ""description"": ""Eindelijk een site die begrijpt wat grote honden nodig hebben! Duidelijk beleid, genoeg ruimte en geen verrassingen bij het inchecken. Boeken in Utrecht verliep soepel en betrouwbaar."",
+        ""image"": ""https://i.imgur.com/SveCnIK.jpeg""
+      },
+      {
+        ""title"": ""Ana Kruger"",
+        ""subtitle"": ""Eigenaar van een grote hond"",
+        ""description"": ""De meeste sites richten zich alleen op kleine honden. Bij WinWin.travel kon ik filteren op grootte, gewicht en zelfs een omheinde tuin vinden. Geweldig voor eigenaren van grote honden!"",
+        ""image"": ""https://i.imgur.com/J3SfzBP.jpeg""
+      },
+      {
+        ""title"": ""Jens Hofman"",
+        ""subtitle"": ""Eigenaar van een grote hond"",
+        ""description"": ""Ik boekte een verblijf in Utrecht waar grote honden welkom zijn, geen extra borg nodig was en er zelfs hondvriendelijke parken in de buurt waren. Ongelooflijk makkelijk."",
+        ""image"": ""https://i.imgur.com/6vNSihx.jpeg""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""partners"",
+  ""data"": {
+    ""title"": ""Onze Partners"",
+    ""subtitle"": ""Deze hotels vertrouwen op WinWin"",
+    ""description"": ""Wij werken samen met wereldwijd erkende merken om jouw ervaring te verbeteren."",
+    ""config"": { ""columns"": 4 },
+    ""items"": [
+      {
+        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/8/8a/Hilton_Worldwide_logo.svg"",
+        ""url"": ""https://www.hilton.com/"",
+        ""name"": ""Hilton Worldwide""
+      },
+      {
+        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/b/b3/Marriott_hotels_logo14.svg"",
+        ""url"": ""https://marriott-hotels.marriott.com/"",
+        ""name"": ""Marriott Hotels and Resorts""
+      },
+      {
+        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/9/93/IHG_Hotels_%26_Resorts_logo.svg"",
+        ""url"": ""https://www.ihg.com/"",
+        ""name"": ""IHG Hotels & Resorts""
+      },
+      {
+        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/2/24/Radisson_Hotel_Group_logo.svg"",
+        ""url"": ""https://www.radissonhotels.com/"",
+        ""name"": ""Radisson Hotel Group""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Misschien vind je dit ook leuk"",
+    ""subtitle"": ""Ontdek meer huisdiervriendelijke verblijven in Nederland"",
+    ""items"": [
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/utrecht/en"",
+        ""label"": ""Hondvriendelijke hotels in Utrecht voor grote honden"",
+        ""image"": ""https://beneluks.pl/wp-content/uploads/2023/07/aerial-of-utrecht-centrum_shutterstock_1305524767.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-small-dog/city-travel/netherlands/amsterdam/en"",
+        ""label"": ""Hondvriendelijke hotels in Amsterdam voor grote honden"",
+        ""image"": ""https://www.holland.com/upload_mm/2/4/4/80160_fullimage_rondvaartboot%20vaart%20onder%20brug%20door%20met%20mooie%20wolkenlucht%20%C2%A9%20illusion-x%20via%20pixabay_1150x663_438x353.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/maastricht/nl"",
+        ""label"": ""Hondvriendelijke accommodaties in Maastricht met huisdieren"",
+        ""image"": ""https://www.holland.com/upload_mm/f/6/0/82645_fullimage_scheveningen%20en%20den%20haag%20gezien%20vanaf%20de%20zee%20%C2%A9%20the%20hague%20convention%20bureau_1150x663_622x564.jpg""
+      }
+    ]
+  }
+}
+","{
+  ""type"": ""faq"",
+  ""data"": {
+    ""title"": ""Veelgestelde vragen"",
+    ""subtitle"": ""Wat reizigers vragen"",
+    ""items"": [
+      {
+        ""question"": ""Zijn al deze hotels in Nederland (Haarlem) geschikt voor kleine honden?"",
+        ""answer"": ""Niet per se, maar het vinden van de juiste is eenvoudig. Gebruik gewoon het filter 'Huisdieren' op onze website en kies 'Tot 15 kg toegestaan'. We tonen je alleen de hotels die kleine honden expliciet toestaan, zodat je met vertrouwen kunt boeken.""
+      },
+      {
+        ""question"": ""Moet ik extra betalen voor mijn kleine hond onder de 8 kg in Nederland (Haarlem)?"",
+        ""answer"": ""Sommige hotels rekenen een toeslag voor huisdieren, maar veel doen dat niet — vooral niet voor kleine honden. Met ons filter 'Geen huisdierentoeslag' vind je eenvoudig hotels die geen toeslag rekenen of minder dan €20 per nacht. Zo voorkom je verrassingen.""
+      },
+      {
+        ""question"": ""Zijn er parken of uitlaatgebieden in de buurt voor kleine honden onder de 8 kg in Amsterdam?"",
+        ""answer"": ""Ja! Gebruik het filter 'Hondenuitlaatgebied in de buurt' in de sectie 'Huisdieren' op onze website. Hiermee vind je hotels dicht bij hondvriendelijke parken en groene zones — ideaal voor korte wandelingen.""
+      },
+      {
+        ""question"": ""Moet ik het vaccinatiebewijs van mijn hond tonen?"",
+        ""answer"": ""Sommige hotels vragen erom, maar veel niet. Gebruik het filter 'Geen vaccinatiebewijs vereist' om accommodaties te vinden waar het niet nodig is. Toch raden we aan om de documenten mee te nemen — voor de zekerheid.""
+      },
+      {
+        ""question"": ""Is er een gewichtslimiet voor mijn kleine hond onder de 8 kg?"",
+        ""answer"": ""Sommige hotels stellen limieten, maar je vindt eenvoudig de juiste opties met onze filters. Kies 'Geen gewichtslimiet' of 'Tot 15 kg toegestaan' in de sectie 'Huisdieren' en je ziet alleen geschikte hotels.""
+      },
+      {
+        ""question"": ""Wat moet ik meenemen voor mijn kleine hond onder de 8 kg?"",
+        ""answer"": ""Elke hotelkaart op onze site toont wat inbegrepen is. Gebruik filters zoals 'Handdoeken voor huisdieren', 'Extra services' of 'Speeltjes voor huisdieren' om sneller de best uitgeruste verblijven te vinden.""
+      }
+    ]
+  }
+}
+",
+4,3,/landings/travel-with-big-dog/city-travel/netherlands/maastricht/nl,Pet-Friendly Hotels in Maastricht for City Travelers with Big Dogs,,en,"[{""name"": ""description"", ""content"": ""Find the best pet-friendly hotels in Maastricht for travelers with big dogs. Discover verified stays with no weight limits, leash-free policies, and access to nearby parks. Book easily and explore Maastricht with your large dog stress-free.""}, {""name"": ""keywords"", ""content"": ""Dog-friendly hotel Maastricht, Travel with big dog Netherlands, Pet-friendly accommodation Maastricht, Holiday with large dog in Maastricht, Big dog friendly hotels Maastricht, Vacation with dog Maastricht, Pet-friendly stays in Maastricht""}, {""property"": ""og:title"", ""content"": ""Pet-Friendly Hotels in Maastricht for Big Dogs – WinWin.travel""}]","{ ""title"": ""Best Dog-Friendly Hotels in Maastricht for You and Your Big Dog"", ""subtitle"": ""Discover the Best Stays for You and Your Big Dog in Maastricht"", ""bgImage"": ""/images/landings/balloons-2.jpg""}","{""stay"":{""defaultStayPeriod"":{""checkIn"":""2025-08-26"",""checkOut"":""2025-08-29""}},""guestQuantity"":{""adultsQuantity"":1,""ageOfChildren"":[5,3],""pets"":[{""type"":""DOG"",""weight"":""10-15kg""}]},""filters"":[{""id"":""4"",""type"":""AND"",""optionIDs"":[""1""]},{""id"":""5"",""type"":""AND"",""optionIDs"":[""2""]},{""id"":""10"",""type"":""AND"",""optionIDs"":[""36"",""38""]}],""geolocation"":{""radius"":20,""centerPoint"":{""latitude"":50.8514,""longitude"":5.6900}}}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/en""},
+        {""name"": ""For big dogs"", ""url"": ""/pet-friendly/for-big-dogs/en""},
+        {""name"": ""Netherlands"", ""url"": ""/pet-friendly/for-big-dogs/netherlands/en""},
+        {""name"": ""The Hague""}
+]","{
+  ""type"": ""text with image"",
+  ""data"": {
+    ""title"": ""Exploring Maastricht with a big dog?"",
+    ""subtitle"": ""Pet-friendly stays in Maastricht for large breeds"",
+    ""description"": [
+      ""Maastricht offers a unique mix of urban charm and green spaces – perfect for travelers with big dogs."",
+      ""Discover carefully selected hotels in Maastricht that welcome large breeds without size restrictions or extra hassle."",
+      ""Enjoy pet-friendly neighborhoods, riverside promenades, and parks ideal for long walks with your big companion."",
+      ""All accommodations include transparent pet policies, spacious interiors, and convenient extras like fenced yards or no leash rules."",
+      ""Book through WinWin.travel for fast confirmation, no hidden pet fees, and a comfortable stay for you and your dog.""
+    ],
+    ""image"": ""https://i.imgur.com/kIhzq9y.jpeg""
+  }
+}"," {
+    ""type"": ""button"",
+    ""data"": {
+      ""url"": ""/"",
+      ""text"": ""Browse Dog-Friendly Hotels""
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Have you ever tried to find a hotel in Maastricht that allows big dogs?"",
+    ""subtitle"": ""Dog owners know the struggle – multiple pets, hotel rules, hidden fees."",
+    ""text"": ""Explore handpicked listings where bigdogs are not just accepted – they’re welcomed."",
+    ""items"": [  
+      {
+        ""label"": ""Try old-stylish apartments with amazing view"",
+""image"": ""https://www.thenordroom.com/wp-content/uploads/2021/04/AMoodyandLuxuriousAtticApartmentinAmsterdam-TheNordroom.jpg"",
+        ""url"": ""/room-offer?hotelId=87269&roomId=SUI.KG&integrationName=HOTELBEDS_INTEGRATION&tab=Room&ids.room=SUI.KG&ids.hotel=87269&ids.integration=HOTELBEDS_INTEGRATION&search.pagination.limit=12&search.pagination.offset=0&search.stay.defaultStayPeriod.checkIn=2025-08-18&search.stay.defaultStayPeriod.checkOut=2025-08-21&search.geolocation.radius=10&search.geolocation.centerPoint.latitude=52.377956&search.geolocation.centerPoint.longitude=4.89707&search.guestQuantity.adultsQuantity=2&search.guestQuantity.pets%5B0%5D.weight=1-5kg&search.guestQuantity.pets%5B0%5D.type=DOG&search.flagSearch.isSearchWithDynamicAndStaticData=true&search.integrationsSearch%5B0%5D.integrationName=HOTELBEDS_INTEGRATION""
+      },
+      {
+        ""label"": ""Modern apartments in dog-friendly neighborhoods"",""image"":""https://www.pufikhomes.com/wp-content/uploads/2023/07/chorno-belaya-kvartira-v-amsterdame-pufikhomes-1.jpg"",
+        ""url"": ""/offers/offer-02""
+      },
+      {
+        ""label"": ""Room with charm and backyard access"",""image"":""https://media.vrbo.com/lodging/96000000/95700000/95690600/95690533/c9807a73.jpg"",
+        ""url"": ""/offers/offer-03""
+      },
+  {
+      ""label"": ""Stylish Loft Near Central Park"",""image"":""https://a0.muscache.com/im/pictures/miso/Hosting-975176761558967760/original/0f021f73-6eb0-4f02-8a78-ebed7e903b72.jpeg"",
+        ""url"": ""/offers/offer-04""
+      }
+    ]
+  }
+}","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""Our Advantages"",
+    ""subtitle"": ""Why Book With WinWin.travel?"",
+    ""text"": ""Discover how WinWin.travel simplifies booking reliable pet-friendly stays in Maastricht for large dog owners."",
+    ""items"": [
+      {
+        ""title"": ""Explore flexible deal options with detailed pet-friendly amenities like on-site pet walking areas and pet-friendly restaurants in the Netherlands."",
+        ""label"": ""Flexible deals""
+      },
+      {
+        ""title"": ""Filter hotel rooms in Maastricht by exact pet acceptance policies, including size restrictions and allowed pet types, ensuring a perfect fit for your big dog."",
+        ""label"": ""Accurate filtering""
+      },
+      {
+        ""title"": ""Access up-to-date, verified information on pet fees and leash policies so you can book confidently for your large dog in Maastricht."",
+        ""label"": ""Verified fees""
+      },
+      {
+        ""title"": ""Receive tailored AI recommendations that match your travel dates and pet requirements to find the ideal stay in Maastricht."",
+        ""label"": ""AI assistance""
+      },
+      {
+        ""title"": ""Benefit from search results prioritized for pet-friendly hotels with accurate, deal-level data to improve booking reliability for large dog owners."",
+        ""label"": ""Verified stays""
+      }
+    ]
+  }
+}","{
+  ""type"": ""reviews"",
+  ""data"": {
+    ""title"": ""Reviews"",
+    ""subtitle"": ""What do large dog owners say about booking stays through WinWin.travel?"",
+    ""items"": [
+      {
+        ""title"": ""Thomas Vermeer"",
+        ""subtitle"": ""Owner of a big dog"",
+        ""description"": ""Finally found a site that gets the needs of big dogs! Clear policies, enough space, and no surprises at check-in. Booking for Utrecht was smooth and reliable."",
+        ""image"": ""https://i.imgur.com/SveCnIK.jpeg""
+      },
+      {
+        ""title"": ""Ana Kruger"",
+        ""subtitle"": ""Owner of a  big dog"",
+        ""description"": ""Most sites only focus on small dogs. WinWin.travel let me filter by dog size, weight limits, and even find a fenced yard. Huge win for big dog owners!"",
+        ""image"": ""https://i.imgur.com/J3SfzBP.jpeg""
+      },
+      {
+        ""title"": ""Jens Hofman"",
+        ""subtitle"": ""Owner of  big dog"",
+        ""description"": ""I booked a stay in Utrecht that allowed big dog, no extra deposit, and even had dog parks nearby. Couldn't believe how easy it was."",
+        ""image"": ""https://i.imgur.com/6vNSihx.jpeg""
+      }
+    ]
+  }
+}","{
+    ""type"": ""partners"",
+    ""data"": {
+      ""title"": ""Our Partners"",
+      ""subtitle"": ""These hotels trust WinWin"",
+      ""description"": ""We collaborate with globally recognized brands to enhance your experience."",
+      ""config"": { ""columns"": 4 },
+      ""items"": [
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/8/8a/Hilton_Worldwide_logo.svg"",
+          ""url"": ""https://www.hilton.com/"",
+          ""name"": ""Hilton Worldwide""
+        },
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/b/b3/Marriott_hotels_logo14.svg"",
+          ""url"": ""https://marriott-hotels.marriott.com/"",
+          ""name"": ""Marriott Hotels and Resorts""
+        },
+        {
+          ""image"": ""https://upload.wikimedia.org/wikipedia/commons/9/93/IHG_Hotels_%26_Resorts_logo.svg"",
+          ""url"": ""https://www.ihg.com/"",
+          ""name"": ""IHG Hotels & Resorts""
+        },
+        {
+            ""image"": ""https://upload.wikimedia.org/wikipedia/commons/2/24/Radisson_Hotel_Group_logo.svg"",
+            ""url"": ""https://www.radissonhotels.com/"",
+            ""name"": ""Radisson Hotel Group""
+          }
+      ]
+    }
+  }","{
+  ""type"": ""propositions"",
+  ""data"": {
+    ""title"": ""You May Also Like"",
+    ""subtitle"": ""Explore More Pet-Friendly Stays in the Netherlands"",
+    ""items"": [
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/utrecht/en"",
+        ""label"": ""Dog-Friendly Hotels in Utrecht for Big Dogs"",""image"": ""https://beneluks.pl/wp-content/uploads/2023/07/aerial-of-utrecht-centrum_shutterstock_1305524767.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-small-dog/city-travel/netherlands/amsterdam/en"",
+        ""label"": ""Dog-Friendly Hotels in Amsterdam for Small Dogs"",""image"": ""https://www.holland.com/upload_mm/2/4/4/80160_fullimage_rondvaartboot%20vaart%20onder%20brug%20door%20met%20mooie%20wolkenlucht%20%C2%A9%20illusion-x%20via%20pixabay_1150x663_438x353.jpg""
+      },
+      {
+        ""url"": ""/landings/travel-with-big-dog/city-travel/netherlands/haarlem/nl"",
+        ""label"": ""Dog-Friendly Accommodation in Haarlem with Big Dogs"",""image"": ""https://www.holland.com/upload_mm/f/6/0/82645_fullimage_scheveningen%20en%20den%20haag%20gezien%20vanaf%20de%20zee%20%C2%A9%20the%20hague%20convention%20bureau_1150x663_622x564.jpg""
+      }
+    ]
+  }
+}","{
+    ""type"": ""faq"",
+    ""data"": {
+            ""title"": ""FAQ"",
+            ""subtitle"": ""Travelers Ask"",
+            ""items"": [{
+                    ""question"": ""Are all these hotels in the Netherlands (Maastricht) suitable for big dogs?"",
+                    ""answer"": ""Not necessarily  but finding the right one is easy. Just use the “Pets” filter on our website and select “From 10-15kg pet allowed”. We’ll show you only the hotels that clearly allow big dogs, so you can book with confidence.""
+            }, {
+                    ""question"": ""Do I need to pay extra for my small dog more than 10 kg to stay in the Netherlands (Maastricht)?"",
+                    ""answer"": ""Some hotels may charge a pet fee, but many don’t. By using our “Pet Fee” filter, you can easily find hotels that either don’t charge a fee or have a pet fee less than €20 per night. This way, you avoid surprises and book the best stay for you and your dog.""
+            }, {
+                    ""question"": ""Are there nearby parks or walking areas for small dogs more than 10 kg in Maastricht?"",
+                    ""answer"": ""Yes, and to make it even easier, you can use the “Pet walking area nearby” filter in the “Pets” section on our website. It helps you find hotels located close to dog-friendly parks and green zones, perfect for short walks with your small dog.""
+            }, {
+                    ""question"": ""Do I need to show my dog's vaccination records?"",
+                    ""answer"": ""Some hotels may require vaccination records, but many don’t. You can use our “No pet vaccination required” filter in the “Pets” section to find hotels that don’t ask for this. However, we still recommend bringing your dog’s vaccination documents when traveling just in case.""
+            }, {
+                    ""question"": ""Is there a weight limit for my big dog more than 10kg?"",
+                    ""answer"": ""Some hotels do set weight limits, but you can easily find the right options using our filters. Just select “No pet weight limit” in the “Pets” section on our website to see hotels that welcome big dogs without strict restrictions.""
+            }, {
+                    ""question"": ""What should I bring for my big dog more than 10kg?"",
+                    ""answer"": ""Each hotel card on our website shows what's included in the room. To find the most pet-ready stays faster, use our filters like “Towels for pets”, “Additional pet services”, or “Toys for pets” in the “Pets” section during your search.""
+            }]
+    }
+}",
+5,4,/landings/travel-with-two-plus-dogs/city-travel/netherlands/amsterdam/en,Pet-Friendly Hotels for city travelers with two or more dogs,,en,,,,,,,,,,,,,
+6,5,/landings/travel-with-small-dog/city-travel/netherlands/the-hague/en,Pet-Friendly hotels for city travelers with small dog in the Hague,,en,,,,,,,,,,,,,
