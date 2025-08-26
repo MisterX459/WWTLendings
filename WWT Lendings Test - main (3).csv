@@ -187,7 +187,7 @@ id,parent,url,title,schemaorg,language,meta,search block,search params,breadcrum
     {
       ""id"": ""15"",
       ""type"": ""AND"",
-      ""optionIDs"": [""30"", ""21"", ""35"", ""25""]
+      ""optionIDs"": [""30""]
     }
   ]
 }
@@ -590,7 +590,8 @@ id,parent,url,title,schemaorg,language,meta,search block,search params,breadcrum
       }
     ]
   }
-}","{
+}
+","{
   ""type"": ""reviews"",
   ""data"": {
     ""title"": ""Reviews"",
@@ -694,4 +695,5 @@ id,parent,url,title,schemaorg,language,meta,search block,search params,breadcrum
 }",
 5,4,/landings/travel-with-two-plus-dogs/city-travel/netherlands/amsterdam/en,Pet-Friendly Hotels for city travelers with two or more dogs,,en,,,,,,,,,,,,,
 6,5,/landings/travel-with-small-dog/city-travel/netherlands/the-hague/en,Pet-Friendly hotels for city travelers with small dog in the Hague,,en,,,,,,,,,,,,,
+
 ,,,,,,,,"{""stay"":{""defaultStayPeriod"":{""checkIn"":""2025-08-26"",""checkOut"":""2025-08-29""}},""guestQuantity"":{""adultsQuantity"":2,""pets"":[{""type"":""DOG"",""weight"":""1-5kg""}]},""filters"":[{""id"":""4"",""type"":""AND"",""optionIDs"":[""1""]},{""id"":""5"",""type"":""AND"",""optionIDs"":[""2""]},{""id"":""10"",""type"":""AND"",""optionIDs"":[""36"",""38""]}]}",,,,,,,,,,
