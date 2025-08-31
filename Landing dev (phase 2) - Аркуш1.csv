@@ -1,0 +1,978 @@
+id,title,parent,url,schemaorg,language,modified,meta,search block,search params,breadcrumbs,content,content,content,content,content,content,content,content,content,content,content
+1,Pet friendly,0,/pet-friendly/en,"[{
+  ""@context"": ""https://schema.org/"",
+	""@type"": ""Product"", 
+		""name"": ""Room 1 with shower"",
+		""image"": ""https://mysite.test/public/room-1-with-shower.jpg"",
+		""description"": ""Description for room 1"",
+		""brand"": {
+			""@type"": ""Brand"",
+			""name"": ""test brand""
+		},
+		""offers"": {
+			""@type"": ""Offer"",
+			""url"": ""https://mysite.test/blog/room-1-with-shower"",
+			""priceCurrency"": ""USD"",
+			""price"": ""120"",
+			""priceValidUntil"": ""2025-07-30"",
+			""availability"": ""https://schema.org/InStock""
+		}
+}, {
+	""@context"": ""https://schema.org/"",
+	""@type"": ""Product"", 
+	""name"": ""Room 2 with shower"",
+	""image"": ""https://mysite.test/public/room-2-with-shower.jpg"",
+	""description"": ""Description for room 2"",
+	""brand"": {
+		""@type"": ""Brand"",
+		""name"": ""test brand""
+	},
+	""offers"": {
+		""@type"": ""Offer"",
+		""url"": ""https://mysite.test/blog/room-2-with-shower"",
+		""priceCurrency"": ""USD"",
+		""price"": ""150"",
+		""priceValidUntil"": ""2025-07-30"",
+		""availability"": ""https://schema.org/InStock""
+	}
+}]",en,2025-07-28,"[
+        {""name"": ""description"", ""content"": ""Lorem ipsum meta description 1""},
+        {""name"": ""keywords"", ""content"": ""keyword1, keyword2, keyword3""},
+        {""property"": ""og:title"", ""content"": ""Some og:title text""}
+]","{
+        ""title"": ""Lorem ipsum lorem"",
+        ""subtitle"": ""Hello traveler!"",
+        ""bgImage"": ""https://winwintravel.ams3.digitaloceanspaces.com/frontendteam-uploads/9d0e3408aff41f331a811cbef9a017e6b51dc373%20(1).jpg""
+}","{
+        ""stay"": {
+                ""defaultStayPeriod"": {
+                        ""checkIn"": ""2025-10-25"",
+                        ""checkOut"": ""2025-10-28""
+                }
+        },
+        ""guestQuantity"": {
+                ""adultsQuantity"": 1,
+                ""ageOfChildren"": [5,3],
+                ""pets"": [{""type"": ""CAT"", ""weight"": ""1-5kg""}]
+        }
+}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly""}
+]","{
+        ""type"": ""offers"",
+        ""data"": {
+                ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs?"",
+                ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""searchParams"": {
+                        ""destination"": ""Amsterdam"",
+                        ""stay"": {
+                                ""defaultStayPeriod"": {
+                                        ""checkIn"": ""2025-10-25"",
+                                        ""checkOut"": ""2025-10-28""
+                                }
+                        }
+                }
+        }
+}","{
+        ""type"": ""button"",
+        ""data"": {
+                ""variant"": ""secondary"",
+                ""url"": ""/"",
+                ""text"": ""Show more""
+        }
+}","{
+        ""type"": ""text with image"",
+        ""data"": {
+                ""title"": ""We have curated the best pet-friendly hotels in Amsterdam"",
+                ""subtitle"": ""Traveling with a small dog?"",
+                ""description"": [""Enjoy central locations close to dog-friendly parks, public transport, and cozy cafes. All listings are reviewed for safety, cleanliness, and comfort — for both you and your pet. From stylish boutique hotels to quiet apartments, you'll find stays that offer pet bowls, welcome treats, and even in-room beds for your pup."", ""Booking through WinWin.travel is fast and reliable. Plan once — travel stress-free.""],
+                ""image"": ""https://media.istockphoto.com/id/2167807881/photo/a-hot-air-balloon-with-a-basket-flies-in-the-evening-sky.webp?b=1&s=612x612&w=0&k=20&c=8gSKFmfRoiB--6F8PgNz5NLi5ZoApy_NnTEC6fgaGxA="",
+                ""imageAlt"": ""image description""
+        }
+}","{
+        ""type"": ""button"",
+        ""data"": {
+                ""url"": ""/"",
+                ""text"": ""CTA""
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Have you ever tried to find a hotel in Netherland that allows 2 dogs?"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons.jpg"",
+                        ""label"": ""Amazing view"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark""
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""2Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Modern"",
+                        ""url"": ""/offers/offer-02"",
+                        ""variant"": ""light""
+                }, {
+                        ""title"": ""Room with charm"",
+                        ""description"": ""3Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Charm"",
+                        ""url"": ""/offers/offer-03"",
+                        ""variant"": ""gray""
+                }]
+        }
+}","{
+        ""type"": ""partners"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""config"": {""colums"": 4},
+                ""items"": [{
+                        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/250px-Google_Images_2015_logo.svg.png"",
+                        ""url"": ""https://google.com"",
+                        ""name"": ""Google""
+                }, {
+                        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png"",
+                        ""url"": ""https://chatgpt.com"",
+                        ""name"": ""ChatGPT""
+                }, {
+                        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/OpenAI_logo_2025_%28wordmark%29.svg/330px-OpenAI_logo_2025_%28wordmark%29.svg.png"",
+                        ""url"": ""https://openai.com"",
+                        ""name"": ""OpenAI""
+                }, {
+                        ""image"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/250px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"",
+                        ""name"": ""MS Excel""
+                }]
+        }
+}","{
+        ""type"": ""reviews"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Name"",
+                        ""image"": ""/images/landings/balloons.jpg"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem""
+                }, {
+                        ""title"": ""Name"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum""
+                }, {
+                        ""title"": ""Name"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum""
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-04"",
+                        ""gridConfig"": {""md"": {""rowSpan"": ""2""},""lg"": {""order"": ""3""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-07"",
+                        ""gridConfig"": {}
+                }, {
+                        ""title"": ""Room with charm"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-05"",
+                        ""variant"": ""gray"",
+                        ""gridConfig"": {""md"": {""colSpan"": ""2""},""lg"": {""colSpan"": ""8""}}
+                }]
+        }
+}","{
+        ""type"": ""button"",
+        ""data"": {
+                ""url"": ""/"",
+                ""text"": ""CTA""
+        }
+}","{
+        ""type"": ""faq"",
+        ""data"": {
+                ""title"": ""FAQ"",
+                ""subtitle"": ""Lorem ipsum for faq section"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""question"": ""Are these hotels verified for two dogs?"",
+                        ""answer"": ""Yes, all listings have confirmed pet policies for two dogs.""
+                }, {
+                        ""question"": ""Is there a park nearby? "",
+                        ""answer"": ""Most of these hotels are near dog parks or walking areas.""
+                }, {
+                        ""question"": ""Are these hotels verified for two dogs?"",
+                        ""answer"": ""Yes, all listings have confirmed pet policies for two dogs.""
+                }, {
+                        ""question"": ""Is there a park nearby? "",
+                        ""answer"": ""Most of these hotels are near dog parks or walking areas.""
+                }]
+        }
+}","{
+        ""type"": ""info block"",
+        ""data"": {
+                ""content"": [{
+                        ""as"": ""h3"",
+                        ""text"": ""Lorem ipsum lorem ipsum lorem ipsumlorem ipsum""
+                }, {
+                        ""text"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum""
+                }],
+                ""list"": [{
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }]
+        }
+}"
+2,For 2 dogs,1,/pet-friendly/for-2-dogs/en,"{
+  ""@context"": ""https://schema.org/"", 
+  ""@type"": ""Product"", 
+  ""name"": ""Room with shower"",
+  ""image"": ""https://mysite.test/public/room-with-shower.jpg"",
+  ""description"": ""Description for room"",
+  ""brand"": {
+    ""@type"": ""Brand"",
+    ""name"": ""test brand""
+  },
+  ""offers"": {
+    ""@type"": ""Offer"",
+    ""url"": ""https://mysite.test/blog/room-with-shower"",
+    ""priceCurrency"": ""USD"",
+    ""price"": ""120"",
+    ""priceValidUntil"": ""2025-07-30"",
+    ""availability"": ""https://schema.org/InStock""
+  }
+}",en,2025-07-29,"[
+        {""name"": ""description"", ""content"": ""Lorem ipsum meta description 2""},
+        {""name"": ""keywords"", ""content"": ""some keyword1, special keyword2, keyword3""},
+        {""property"": ""og:title"", ""content"": ""Some long long long og:title text""}
+]","{
+        ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs?"",
+        ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+        ""bgImage"": ""https://media.istockphoto.com/id/2167807881/photo/a-hot-air-balloon-with-a-basket-flies-in-the-evening-sky.webp?b=1&s=612x612&w=0&k=20&c=8gSKFmfRoiB--6F8PgNz5NLi5ZoApy_NnTEC6fgaGxA=""
+}","{
+        ""guestQuantity"": {
+                ""adultsQuantity"": 2,
+                ""pets"": [
+                        {""type"": ""DOG"", ""weight"": ""10-15kg""},
+                        {""type"": ""DOG"", ""weight"": ""1-5kg""}
+                ]
+        },
+        ""filters"": [{
+                ""id"": ""1"",
+                ""type"": ""PRICE_RANGE"",
+                ""rangeLower"": 0,
+                ""rangeUpper"": 500,
+                ""defaultMin"": 0,
+                ""defaultMax"": 2001
+        }, {
+                ""id"": ""4"",
+                ""type"": ""AND"",
+                ""optionIDs"": [""1""]
+        }, {
+                ""id"": ""5"",
+                ""type"": ""AND"",
+                ""optionIDs"": [""2""]
+        }, {
+                ""id"": ""10"",
+                ""type"": ""AND"",
+                ""optionIDs"": [""36"", ""38""]
+        }]
+}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/en""},
+        {""name"": ""For 2 dogs""}
+]","{
+        ""type"": ""offers"",
+        ""data"": {
+                ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs?"",
+                ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+                ""text"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""searchParams"": {
+                        ""destination"": ""Amsterdam"",
+                        ""stay"": {
+                                ""defaultStayPeriod"": {
+                                        ""checkIn"": ""2025-10-25"",
+                                        ""checkOut"": ""2025-10-28""
+                                }
+                        }
+                }
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""We're looking for:"",
+                ""subtitle"": ""Loremipsum Losem ipsum Loremipsum"",
+                ""items"": [{
+                        ""title"": ""Get $1000 discount on your travel"",
+                        ""description"": ""Request details"",
+                        ""label"": ""Crowdfunding"",
+                        ""url"": ""/offers/offer-10""
+                }, {
+                        ""title"": ""If you're passionate about travel"",
+                        ""description"": ""Let's collaborate"",
+                        ""label"": ""Brand Ambassadors"",
+                        ""url"": ""/offers/offer-12""
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {""md"": {""colSpan"": ""2""}, ""lg"": {""colSpan"": ""8""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""md"": {""colSpan"": ""2""}, ""lg"": {""rowSpan"": ""2""}}
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""lg"": {""colSpan"": ""8""}}
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""https://media.istockphoto.com/id/2167807881/photo/a-hot-air-balloon-with-a-basket-flies-in-the-evening-sky.webp?b=1&s=612x612&w=0&k=20&c=8gSKFmfRoiB--6F8PgNz5NLi5ZoApy_NnTEC6fgaGxA="",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""gridConfig"": {""md"": {""order"": ""-3""}, ""lg"": {""order"": ""-3""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""md"": {""order"": ""-2""}, ""lg"": {""order"": ""-1""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""md"": {""rowSpan"": ""2""}, ""lg"": {""rowSpan"": ""2"", ""order"": ""-2""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {""md"": {""order"": ""-1""}, ""lg"": {""order"": ""-4""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""md"": {""colSpan"": ""2""}, ""lg"": {""colSpan"": ""8""}}
+                }]
+        }
+}",,,"{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {""lg"": {""colSpan"": ""7""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""lg"": {""colSpan"": ""5""}}
+                }, {
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""gridConfig"": {""lg"": {""colSpan"": ""5""}}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {""lg"": {""colSpan"": ""7""}}
+                }]
+        }
+}",,,
+3,Netherlands,2,/pet-friendly/for-2-dogs/netherlands/en,"
+         
+{
+  ""@context"": ""https://schema.org/"", 
+  ""@type"": ""Product"", 
+  ""name"": ""Room with shower"",
+  ""image"": ""https://mysite.test/public/room-with-shower.jpg"",
+  ""description"": ""Description for room"",
+  ""brand"": {
+    ""@type"": ""Brand"",
+    ""name"": ""test brand""
+  },
+  ""offers"": {
+    ""@type"": ""Offer"",
+    ""url"": ""https://mysite.test/blog/room-with-shower"",
+    ""priceCurrency"": ""USD"",
+    ""price"": ""120"",
+    ""priceValidUntil"": ""2025-07-30"",
+    ""availability"": ""https://schema.org/InStock""
+  }
+}",en,2025-07-28,"[
+        {""name"": ""description"", ""content"": ""Lorem ipsum meta description 3""}
+]","{
+        ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs? (h2)"",
+        ""titleLevel"": ""h2"",
+        ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+        ""subtitleAs"": ""em"",
+        ""bgImage"": ""/images/landings/balloons-2.jpg""
+}","{
+        ""stay"": {
+                ""defaultStayPeriod"": {
+                        ""checkIn"": ""2025-11-25"",
+                        ""checkOut"": ""2025-11-28""
+                }
+        },
+        ""guestQuantity"": {
+                ""adultsQuantity"": 2,
+                ""ageOfChildren"": [5,8,14],
+                ""pets"": [{""type"": ""OTHER"", ""weight"": "">20kg""}]
+        }
+}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/en""},
+        {""name"": ""For 2 dogs"", ""url"": ""/pet-friendly/for-2-dogs/en""},
+        {""name"": ""Netherlands""}
+]","{
+        ""type"": ""offers"",
+        ""data"": {
+                ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs? (h1)"",
+                ""titleLevel"": ""h1"",
+                ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+                ""text"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""searchParams"": {
+                        ""destination"": ""Amsterdam"",
+                        ""stay"": {
+                                ""defaultStayPeriod"": {
+                                        ""checkIn"": ""2025-10-25"",
+                                        ""checkOut"": ""2025-10-28""
+                                }
+                        }
+                }
+        }
+}","{
+        ""type"": ""faq"",
+        ""data"": {
+                ""title"": ""FAQ"",
+                ""subtitle"": ""Lorem ipsum for faq section"",
+                ""items"": [{
+                        ""question"": ""Are these hotels verified for two dogs?"",
+                        ""answer"": ""Yes, all listings have confirmed pet policies for two dogs.""
+                }, {
+                        ""question"": ""Is there a park nearby?"",
+                        ""answer"": ""Most of these hotels are near dog parks or walking areas.""
+                }, {
+                        ""question"": ""Do I have to pay extra for my dogs?"",
+                        ""answer"": ""Some hotels include pets for free, others may charge — check each listing.""
+                }, {
+                        ""question"": ""What if my dog has special needs?"",
+                        ""answer"": ""Filter by “Amenities” or contact us — we’ll help you find the right place.""
+                }, {
+                        ""question"": ""Can I bring large breeds?"",
+                        ""answer"": ""Absolutely. Use the filter to select large-dog-friendly options.""
+                }, {
+                        ""question"": ""Lorem ipsum Lorem ipsum"",
+                        ""answer"": ""Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.""
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Heading without parameter (h2)"",
+                ""subtitle"": ""Subtitle without parameter 'subtitleAs' (p)"",
+                ""items"": [{
+                        ""title"": ""Get $1000 discount on your travel"",
+                        ""description"": ""Request details"",
+                        ""label"": ""Crowdfunding"",
+                        ""url"": ""/offers/offer-10""
+                }, {
+                        ""title"": ""If you're passionate about travel"",
+                        ""description"": ""Let's collaborate"",
+                        ""label"": ""Brand Ambassadors"",
+                        ""url"": ""/offers/offer-12""
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Heading (h3)"",
+                ""titleLevel"": ""h3"",
+                ""subtitle"": ""Subtitle (strong)"",
+                ""subtitleAs"": ""strong"",
+                ""items"": [{
+                        ""title"": ""Get $1000 discount on your travel"",
+                        ""description"": ""Request details"",
+                        ""label"": ""Crowdfunding"",
+                        ""url"": ""/offers/offer-10""
+                }, {
+                        ""title"": ""If you're passionate about travel"",
+                        ""description"": ""Let's collaborate"",
+                        ""label"": ""Brand Ambassadors"",
+                        ""url"": ""/offers/offer-12""
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Heading (h4)"",
+                ""titleLevel"": ""h4"",
+                ""subtitle"": ""Subtitle (em)"",
+                ""subtitleAs"": ""em"",
+                ""items"": [{
+                        ""title"": ""Get $1000 discount on your travel"",
+                        ""description"": ""Request details"",
+                        ""label"": ""Crowdfunding"",
+                        ""url"": ""/offers/offer-10""
+                }, {
+                        ""title"": ""If you're passionate about travel"",
+                        ""description"": ""Let's collaborate"",
+                        ""label"": ""Brand Ambassadors"",
+                        ""url"": ""/offers/offer-12""
+                }]
+        }
+}","{
+        ""type"": ""info block"",
+        ""data"": {
+                ""content"": [{
+                        ""as"": ""h1"",
+                        ""text"": ""Heading (h1)""
+                }, {
+                        ""as"": ""h2"",
+                        ""text"": ""Heading (h2)""
+                }, {
+                        ""as"": ""h3"",
+                        ""text"": ""Heading (h3)""
+                }, {
+                        ""as"": ""h4"",
+                        ""text"": ""Heading (h4)""
+                }, {
+                        ""as"": ""h5"",
+                        ""text"": ""Heading (h5)""
+                }, {
+                        ""as"": ""h6"",
+                        ""text"": ""Heading (h6)""
+                }, {
+                        ""as"": ""strong"",
+                        ""text"": ""Bold text (strong)""
+                }, {
+                        ""as"": ""p"",
+                        ""text"": ""paragraph""
+                }, {
+                        ""as"": ""em"",
+                        ""text"": ""Italic text (em)""
+                }, {
+                        ""text"": ""without parameter 'as' - just usual paragraph""
+                }],
+                ""list"": [{
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }, {
+                        ""name"": ""Lorem ipsum"",
+                        ""url"": ""https://google.com""
+                }]
+        }
+}",,,,,
+4,Amsterdam,3,/pet-friendly/for-2-dogs/netherlands/amsterdam/en,,en,,"[
+        {""name"": ""description"", ""content"": ""Lorem ipsum meta description 3""}
+]","{
+        ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs?"",
+        ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+        ""bgImage"": ""/images/landings/landing-search-dog.jpg""
+}","{
+        ""stay"": {
+                ""defaultStayPeriod"": {
+                        ""checkIn"": ""2025-11-25"",
+                        ""checkOut"": ""2025-11-28""
+                }
+        },
+        ""guestQuantity"": {
+                ""adultsQuantity"": 2,
+                ""ageOfChildren"": [5,8,14],
+                ""pets"": [{""type"": ""OTHER"", ""weight"": "">20kg""}]
+        }
+}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly"", ""url"": ""/pet-friendly/en""},
+        {""name"": ""For 2 dogs"", ""url"": ""/pet-friendly/for-2-dogs/en""},
+        {""name"": ""Netherlands"", ""url"": ""/pet-friendly/for-2-dogs/netherlands/en""},
+        {""name"": ""Amsterdam""}
+]","{
+        ""type"": ""offers"",
+        ""data"": {
+                ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs?"",
+                ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+                ""text"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""searchParams"": {
+                        ""destination"": ""Amsterdam"",
+                        ""stay"": {
+                                ""defaultStayPeriod"": {
+                                        ""checkIn"": ""2025-10-25"",
+                                        ""checkOut"": ""2025-10-28""
+                                }
+                        }
+                }
+        }
+}","{
+        ""type"": ""faq"",
+        ""data"": {
+                ""title"": ""FAQ"",
+                ""subtitle"": ""Lorem ipsum for faq section"",
+                ""items"": [{
+                        ""question"": ""Are these hotels verified for two dogs?"",
+                        ""answer"": ""Yes, all listings have confirmed pet policies for two dogs.""
+                }, {
+                        ""question"": ""Is there a park nearby?"",
+                        ""answer"": ""Most of these hotels are near dog parks or walking areas.""
+                }, {
+                        ""question"": ""Do I have to pay extra for my dogs?"",
+                        ""answer"": ""Some hotels include pets for free, others may charge — check each listing.""
+                }, {
+                        ""question"": ""What if my dog has special needs?"",
+                        ""answer"": ""Filter by “Amenities” or contact us — we’ll help you find the right place.""
+                }, {
+                        ""question"": ""Can I bring large breeds?"",
+                        ""answer"": ""Absolutely. Use the filter to select large-dog-friendly options.""
+                }, {
+                        ""question"": ""Lorem ipsum Lorem ipsum"",
+                        ""answer"": ""Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.""
+                }]
+        }
+}",,,,,,,,,
+5,Pet friendly french,0,/pet-friendly/fr,,fr,,"[
+        {""name"": ""description"", ""content"": ""Lorem ipsum meta description 1""},
+        {""name"": ""keywords"", ""content"": ""keyword1, keyword2, keyword3""},
+        {""property"": ""og:title"", ""content"": ""Some og:title text""}
+]","{
+        ""title"": ""Let's try a date in the past"",
+        ""subtitle"": ""Hello traveler!"",
+        ""bgImage"": ""https://i.imgur.com/6IIGBvG.jpeg"",
+        ""bgPosition"": ""50% 35%""
+}","{
+        ""stay"": {
+                ""defaultStayPeriod"": {
+                        ""checkIn"": ""2024-01-25"",
+                        ""checkOut"": ""2024-01-28""
+                }
+        },
+        ""guestQuantity"": {
+                ""adultsQuantity"": 1,
+                ""ageOfChildren"": [5,3],
+                ""pets"": [{""type"": ""CAT"", ""weight"": ""1-5kg""}]
+        }
+}","[
+        {""name"": ""Home"", ""url"": ""/""},
+        {""name"": ""Pet-friendly""}
+]","{
+        ""type"": ""offers"",
+        ""data"": {
+                ""title"": ""Looking for a stay in Amsterdam that welcomes both you and your two dogs? (h3)"",
+                ""titleLevel"": ""h3"",
+                ""subtitle"": ""Loremipsum Losem ipsum Loremipsum Losem ipsum Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""searchParams"": {
+                        ""destination"": ""Amsterdam"",
+                        ""stay"": {
+                                ""defaultStayPeriod"": {
+                                        ""checkIn"": ""2025-10-25"",
+                                        ""checkOut"": ""2025-10-28""
+                                }
+                        }
+                }
+        }
+}","{
+        ""type"": ""button"",
+        ""data"": {
+                ""variant"": ""secondary"",
+                ""url"": ""/"",
+                ""text"": ""Show more""
+        }
+}","{
+        ""type"": ""text with image"",
+        ""data"": {
+                ""title"": ""We have curated the best pet-friendly hotels in Amsterdam"",
+                ""subtitle"": ""Traveling with a small dog?"",
+                ""description"": [""Enjoy central locations close to dog-friendly parks, public transport, and cozy cafes. All listings are reviewed for safety, cleanliness, and comfort — for both you and your pet. From stylish boutique hotels to quiet apartments, you'll find stays that offer pet bowls, welcome treats, and even in-room beds for your pup."", ""Booking through WinWin.travel is fast and reliable. Plan once — travel stress-free.""],
+                ""image"": ""/images/landings/balloons.jpg"",
+                ""imageAlt"": ""image description""
+        }
+}","{
+        ""type"": ""button"",
+        ""data"": {
+                ""url"": ""/"",
+                ""text"": ""CTA""
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Have you ever tried to find a hotel in Netherland that allows 2 dogs?"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons.jpg"",
+                        ""label"": ""Amazing view"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark""
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""2Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Modern"",
+                        ""url"": ""/offers/offer-02"",
+                        ""variant"": ""light""
+                }, {
+                        ""title"": ""Room with charm"",
+                        ""description"": ""3Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Charm"",
+                        ""url"": ""/offers/offer-03"",
+                        ""variant"": ""gray""
+                }]
+        }
+}","{
+        ""type"": ""partners"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""config"": {""colums"": 4},
+                ""items"": [{
+                        ""image"": ""//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/250px-Google_Images_2015_logo.svg.png"",
+                        ""url"": ""https://google.com"",
+                        ""name"": ""Google""
+                }, {
+                        ""image"": ""//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png"",
+                        ""url"": ""https://chatgpt.com"",
+                        ""name"": ""ChatGPT""
+                }, {
+                        ""image"": ""//upload.wikimedia.org/wikipedia/commons/thumb/a/af/OpenAI_logo_2025_%28wordmark%29.svg/330px-OpenAI_logo_2025_%28wordmark%29.svg.png"",
+                        ""url"": ""https://openai.com"",
+                        ""name"": ""OpenAI""
+                }, {
+                        ""image"": ""//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/250px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"",
+                        ""name"": ""MS Excel""
+                }]
+        }
+}","{
+        ""type"": ""reviews"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Name"",
+                        ""image"": ""/images/landings/balloons.jpg"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem""
+                }, {
+                        ""title"": ""Name"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsum Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum""
+                }, {
+                        ""title"": ""Name"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum""
+                }]
+        }
+}","{
+        ""type"": ""propositions"",
+        ""data"": {
+                ""title"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""subtitle"": ""Loremipsum Losem ipsum"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""title"": ""Try old-stylish appartaments with amazing view"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons-2.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-01"",
+                        ""variant"": ""dark"",
+                        ""gridConfig"": {}
+                }, {
+                        ""title"": ""Modern appartaments"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-06"",
+                        ""gridConfig"": {""md"": {""colSpan"": ""2"", ""order"": ""-2""}, ""lg"": {""colSpan"": ""4"", ""rowSpan"": ""2"", ""order"": ""4""}}
+                }, {
+                        ""title"": ""Modern appartaments2"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-04"",
+                        ""gridConfig"": {""md"": {""rowSpan"": ""2"", ""order"": ""-1""}}
+                }, {
+                        ""title"": ""Room with charm"",
+                        ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem"",
+                        ""image"": ""/images/landings/balloons.jpg"",
+                        ""label"": ""Lorem ipsum"",
+                        ""url"": ""/offers/offer-05"",
+                        ""variant"": ""gray"",
+                        ""gridConfig"": {""lg"": {""colSpan"": ""4"", ""order"": ""4""}}
+                }]
+        }
+}","{
+        ""type"": ""button"",
+        ""data"": {
+                ""url"": ""/"",
+                ""text"": ""CTA""
+        }
+}","{
+        ""type"": ""faq"",
+        ""data"": {
+                ""title"": ""FAQ"",
+                ""subtitle"": ""Lorem ipsum for faq section"",
+                ""description"": ""Loremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsumLoremipsum lorem ipsum lorem ipsum lorem ipsum"",
+                ""items"": [{
+                        ""question"": ""Are these hotels verified for two dogs?"",
+                        ""answer"": ""Yes, all listings have confirmed pet policies for two dogs.""
+                }, {
+                        ""question"": ""Is there a park nearby? "",
+                        ""answer"": ""Most of these hotels are near dog parks or walking areas.""
+                }, {
+                        ""question"": ""Are these hotels verified for two dogs?"",
+                        ""answer"": ""Yes, all listings have confirmed pet policies for two dogs.""
+                }, {
+                        ""question"": ""Is there a park nearby? "",
+                        ""answer"": ""Most of these hotels are near dog parks or walking areas.""
+                }]
+        }
+}",
